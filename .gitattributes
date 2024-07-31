@@ -1,2 +1,1 @@
-H.pylori filter=lfs diff=lfs merge=lfs -text
-S.cerevisiae filter=lfs diff=lfs merge=lfs -text
+Result_files filter=lfs diff=lfs merge=lfs -text
